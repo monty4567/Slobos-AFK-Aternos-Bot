@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Monty785-Kxr1.aternos.me:40883",
+    "port": 40883,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
